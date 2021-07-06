@@ -1,1 +1,1 @@
-# impermanent-loss-protection
+# Impermanent Loss Protection
